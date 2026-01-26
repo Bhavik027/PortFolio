@@ -16,6 +16,18 @@ I like getting hands-on with things like:
 
 Most of my learning comes from labs, CTFs, and small practice projects rather than just theory. I enjoy digging into vulnerabilities, testing exploits in safe environments, and writing down what I learn so I don’t repeat mistakes.
 
+📜 Certifications
+
+CEH - EC-COUNCIL
+
+CAPT (Certified Associate Penetration Tester) - Hackviser (In Progress)
+
+Junior Penetration Tester - TryHackMe (In Progress)
+
+Google Cloud Security Certificate - Google (In Progress)
+
+🎯 Goal: Grow into a skilled penetration tester and keep improving one box at a time.
+
 Right now, I’m focused on:
 
 Improving web app pentesting skills
