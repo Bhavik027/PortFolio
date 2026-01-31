@@ -2,7 +2,7 @@
 
 👋 About Me
 
-Hey, I’m a cybersecurity fresher who’s mainly into penetration testing and learning how systems break so they can be secured better.
+Hey, I’m a cybersecurity fresher who’s mainly into penetration testing and learning how systems break so they can be secured
 
 I like getting hands-on with things like:
 
