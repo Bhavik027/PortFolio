@@ -124,3 +124,11 @@ Learning common vulnerabilities (OWASP Top 10)
 Building a strong pentester mindset and methodology
 
 🎯 Goal: Become a solid penetration tester and keep leveling up through consistent practice.
+-------------------------------------------------------------------------------------------
+🎯 Future Goals
+-------------------------------------------------------------------------------------------
+To transition into real-world penetration testing engagements by working on client-authorized infrastructures, collaborating with
+
+experienced pentesters, conducting web and network assessments, and delivering high-quality vulnerability reports that help organizations
+
+reduce real security risk, with the long-term objective of becoming a highly skilled and respected penetration tester.
