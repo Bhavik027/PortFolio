@@ -2,7 +2,9 @@
 
 👋 About Me
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Hey, I’m a cybersecurity fresher who’s mainly into penetration testing and learning how systems break so they can be secured better.
+I am a Certified Ethical Hacker (CEH) and Junior Penetration Tester focused exclusively on offensive security and penetration testing.
+
+My work revolves around identifying, exploiting, and documenting security vulnerabilities across web applications, networks, and Linux systems using industry-standard VAPT methodologies.
 
 I like getting hands-on with things like:
 
